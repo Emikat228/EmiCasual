@@ -65,7 +65,7 @@ body {
 	background: #022859 !important;
 	border-bottom: none;
 	color: #07B0F2 !important;
-	border-radius: 0px
+	border-radius: 10px !important;
 }
 
 /* BREADCRUMB (Home / Den) */
@@ -115,7 +115,7 @@ body {
 input.floatright, input.floatright:hover {
 	background: rgba(2, 40, 89, 0.95) !important;
         border: none !important;
-	border-radius: 0px;
+	border-radius: 10px !important;
 	color: #D7E9FF !important;    
 }
 
@@ -124,7 +124,7 @@ input.floatright, input.floatright:hover {
 button.button, button.button:hover {
 	background: rgba(2, 40, 89, 0.95);
         border: none !important;
-	border-radius: 0px;
+	border-radius: 10px !important;
         text-shadow: none !important;
 	color: #000000 !important
 }
@@ -137,7 +137,7 @@ button.button, button.button:hover {
 	background: rgba(5, 91, 166, 0.75) !important;
 	border: none;
 	color: #07B0f2;
-	border-radius: 0px !important
+	border-radius: 10px !important;
 }
 
 /* BIGGEST HEADER ("___"'s DEN) */
@@ -180,21 +180,21 @@ h3 {
 	box-shadow: none !important;
 	border: none !important;
 	color: #D7E9FF !important;
-	border-radius: 0px
+	border-radius: 10px !important;
 }
 
 /* ENERGY BAR BACKGROUND */
 .progress {
 	background: rgba(2, 40, 89, 0.75);
 	color: #D7E9FF !important;
-	border-radius: 0px !important
+	border-radius: 10px !important;
 }
 
 /* ENERGY BAR COLOR */
 .progress-bar {
 	background: #055BA6;
 	color: #D7E9FF !important;
-	border-radius: 0px !important
+	border-radius: 10px !important
 }
 
 /* ENERGY BAR TEXT */
@@ -246,8 +246,8 @@ border: 2px #055BA6 !important;
 height: 280px !important;
 margin-top: 40px;
 overflow: auto !important;
-border-top-left-radius: 0px !important;
-border-top-right-radius: 0px !important;
+border-top-left-radius: 10px !important;
+border-top-right-radius: 10px !important;
 }
 
 .comment {
@@ -302,7 +302,7 @@ color: black;
 th {
 	background: #022859 !important;
 	color: #07B0f2 !important;
-	border-radius: 0px
+	border-radius: 10px !important
 }
 
 td.bottom a {
@@ -314,7 +314,7 @@ td.bottom a {
 .inner-table .left {
 	background: rgba(7, 98, 242, 0.75) !important;
         color: #D7E9FF;
-	border-radius: 0px
+	border-radius: 10px !important
 }
 
 
@@ -322,11 +322,11 @@ td.bottom a {
 
 .inner-table .right {
 	background: rgba(7, 98, 242, 0.25) !important;
-	border-radius: 0px !important
+	border-radius: 10px !important
 }
 
 td.right {
-	border-radius: 0px !important
+	border-radius: 10px !important
 }
 
 /* IGNORE */
@@ -340,7 +340,7 @@ td.right {
 .mound-grid {
 	background: rgba(10, 33, 64, 0.75) !important;
 	border: none !important;
-	border-radius: 0px !important
+	border-radius: 10px !important
 }
 
 /* FEED ALL, PLAY ALL */
@@ -349,7 +349,7 @@ td.right {
 	background: rgba(2, 40, 89, 0.5) !important;
 	color: #000000 !important;
 	border: 1px solid #000000 !important;
-	border-radius: 0px !important
+	border-radius: 10px !important
 }
 
 /* "King Dynasty, Pride Dynasty, Achievements, Showcase" Panels */
@@ -358,14 +358,14 @@ td.right {
 div.left {
 	background: rgba(10, 33, 64, 0.75);
 	border: none;
-	border-radius: 0px !important
+	border-radius: 10px !important
 }
 
 /* Block of color behind "Territory Description, Player Name, Avatar URL" etc. */
 
 .table .left {
 	background: rgba(5, 91, 166, 0.5);
-        border-radius: 0px
+        border-radius: 10px !important
 }
 
 /* Color behind the content of the elements listed above */
@@ -375,7 +375,7 @@ select,
 textarea {
 	background: rgba(2, 40, 89, 0.5) !important;
 	border: none !important;
-	border-radius: 0px !important;
+	border-radius: 10px !important;
 	color: #000000 !important;
 	box-shadow: none !important;
 	text-shadow: none !important
@@ -386,13 +386,13 @@ textarea {
 .item-header {
 	background: rgba(2, 40, 89, 0.5) !important;
 	color: #D7E9FF  !important;
-	border-radius: 0px !important;
+	border-radius: 10px !important;
 }
 
 .item {
 	background: rgba(1, 1, 1, 0.5) !important;
 	border: none !important;
-	border-radius: 0px !important
+	border-radius: 10px !important
 }
 
 /* ACCOUNT OPTIONS ON/OFF TOGGLE SWITCH */
@@ -444,7 +444,7 @@ a:hover {
 	color: #D7E9FF;
 	padding: 10px;
 	border: none;
-	border-radius: 0px;
+	border-radius: 10px !important;
 	margin: 10px;
 	height: 150px;
 	width: 28.4%;
@@ -457,7 +457,7 @@ a:hover {
 	color: #D7E9FF;
 	padding: 10px;
 	border: none;
-	border-radius: 0px;
+	border-radius: 10px !important;
 	margin: 10px;
 	height: 150px;
 	width: 43.8%;
@@ -470,7 +470,7 @@ a:hover {
 	color: #D7E9FF;
 	padding: 10px;
 	border: none;
-	border-radius: 0px;
+	border-radius: 10px !important;
 	margin: 10px;
 	height: 150px;
 	width: 90%;
@@ -485,7 +485,7 @@ a:hover {
 	color: #D7E9FF;
 	padding: 10px;
 	border: none;
-	border-radius: 0px;
+	border-radius: 10px !important;
 	margin: 10px;
 	height: 50px;
 	width: 28.4%;
@@ -504,7 +504,7 @@ a:hover {
 	color: #000000;
 	padding: 10px;
 	border: none;
-	border-radius: 0px;
+	border-radius: 10px !important;
 	margin: 10px;
 	height: 50px;
 	width: 43.8%;
@@ -523,7 +523,7 @@ a:hover {
 	color: #000000;
 	padding: 10px;
 	border: none;
-	border-radius: 0px;
+	border-radius: 10px !important;
 	margin: 10px;
 	height: 150px;
 	width: 90%;
@@ -655,3 +655,5 @@ img[src$="icon-beetle-silver.png"] {
 content: url("https://i.ibb.co/v6pnM24S/Silver-Stars.png") !important;
 width: 20px !important;
 }
+
+/* Start https://www.cursors-4u.com */ * {cursor: url(https://cur.cursors-4u.net/cursors/cur-3/cur289.ani), url(https://cur.cursors-4u.net/cursors/cur-3/cur289.png), auto !important;} /* End https://www.cursors-4u.com */
