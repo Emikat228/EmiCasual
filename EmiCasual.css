@@ -38,7 +38,7 @@ body {
 
 .topbar {
 	background: #022859;
-	border:  0 ridge !important;
+	border: 0 ridge !important;
 	border-top: none;
 	color: #D7E9FF;
 	border-radius: 10px !important;
@@ -114,7 +114,7 @@ body {
 
 input.floatright, input.floatright:hover {
 	background: rgba(2, 40, 89, 0.95) !important;
-        border: none !important;
+        border: 0 ridge !important;
 	border-radius: 10px !important;
 	color: #D7E9FF !important;    
 }
@@ -123,7 +123,7 @@ input.floatright, input.floatright:hover {
 
 button.button, button.button:hover {
 	background: rgba(2, 40, 89, 0.95);
-        border: none !important;
+        border: 0 ridge !important;
 	border-radius: 10px !important;
         text-shadow: none !important;
 	color: #000000 !important
@@ -135,7 +135,7 @@ button.button, button.button:hover {
 .alert-warning,
 .alert-danger {
 	background: rgba(5, 91, 166, 0.75) !important;
-	border: none;
+	border: 0 ridge !important;
 	color: #07B0f2;
 	border-radius: 10px !important;
 }
@@ -178,7 +178,7 @@ h3 {
 .panel {
 	background: rgba(2, 40, 89, 0.5) !important;
 	box-shadow: none !important;
-	border: none !important;
+	border: 0 ridge !important;
 	color: #D7E9FF !important;
 	border-radius: 10px !important;
 }
@@ -207,7 +207,7 @@ h3 {
 .s-chat-message:nth-child(even) /* Even Numbered Messages */ {
 	background: rgba(5, 91, 166, 0.5) !important;
         color: #07B0f2 !important;
-	border: none !important
+	border: 0 ridge !important;
 }
 
 .s-chat-message:nth-child(odd) /* Odd Numbered Messages */ {
@@ -227,7 +227,8 @@ h3 {
 }
 
 div#chatMessageContainer {
-	border: none !important;
+	border: 0 ridge !important;
+	border-radius: 10px !important;
 }
 
 button#label_currentChannel /* Channel Button ie. Main, Sales */ {
@@ -289,9 +290,9 @@ color: black;
 
 .table {
 	background: rgba(5, 91, 166, 0.5);
-	border: none !important;
+	border: 0 ridge !important;
 	border-collapse: separate;
-	border-radius: 0px
+	border-radius: 10px !important;
 }
 
 
@@ -302,6 +303,7 @@ color: black;
 th {
 	background: #022859 !important;
 	color: #07B0f2 !important;
+	border: 0 ridge !important;
 	border-radius: 10px !important
 }
 
@@ -314,6 +316,7 @@ td.bottom a {
 .inner-table .left {
 	background: rgba(7, 98, 242, 0.75) !important;
         color: #D7E9FF;
+	border: 0 ridge !important;
 	border-radius: 10px !important
 }
 
@@ -322,6 +325,7 @@ td.bottom a {
 
 .inner-table .right {
 	background: rgba(7, 98, 242, 0.25) !important;
+	border: 0 ridge !important;
 	border-radius: 10px !important
 }
 
@@ -339,7 +343,7 @@ td.right {
 .cave-grid,
 .mound-grid {
 	background: rgba(10, 33, 64, 0.75) !important;
-	border: none !important;
+	border: 0 ridge !important;
 	border-radius: 10px !important
 }
 
@@ -357,7 +361,7 @@ td.right {
 .feature,
 div.left {
 	background: rgba(10, 33, 64, 0.75);
-	border: none;
+	border: 0 ridge !important;
 	border-radius: 10px !important
 }
 
