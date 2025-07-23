@@ -25,7 +25,7 @@ body {
 	background: rgba(2, 40, 89, 0.5);
 	border: 0 ridge !important;
 	box-shadow: none;
-	border-radius: 0px
+	border-radius: 10px !important;
 }
 
 /* LEFT SIDE */
@@ -41,7 +41,7 @@ body {
 	border:  0 ridge !important;
 	border-top: none;
 	color: #D7E9FF;
-	border-radius: 0px;
+	border-radius: 10px !important;
 }
 
 /* NAVBAR (Den/Crossroads/Etc.) */
@@ -50,7 +50,7 @@ body {
 	background: rgba(2, 40, 89, 0.95);
 	border-bottom: none;
 	color: #07B0F2;
-	border-radius: 0px
+	border-radius: 10px !important;
 }
 
 /* NAVBAR BUTTON TEXT COLOR */
@@ -73,7 +73,7 @@ body {
 .breadcrumb {
 	background: rgba(2, 40, 89, 0.95) !important;
         border: 0 ridge !important;
-	border-radius: 0px
+	border-radius: 10px !important;
 }
 
 /* BREADCRUMB TEXT */
