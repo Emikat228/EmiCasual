@@ -15,7 +15,7 @@ body {
 	background: url('https://i.ibb.co/cKFtpL4J/Space1.png') center center fixed;
 	background-size: 100%;
 	font-family:  'Sour Gummy', sans-serif;
-	color: #D7E9FF
+	color: #BCCDE0
 }
 
 /* MAIN PANEL */
@@ -30,7 +30,7 @@ body {
 
 /* LEFT SIDE */
 .col-md-9 {
-	background: none;
+	background: #0A2140;
         border-right: none
 }
 
@@ -62,9 +62,9 @@ body {
 /* NAVBAR BUTTON HOVER */
 
 .navbar li a:hover {
-	background: #022859 !important;
+	background: #055BA6 !important;
 	border-bottom: none;
-	color: #07B0F2 !important;
+	color: #D7E9FF !important;
 	border-radius: 10px !important;
 }
 
@@ -420,13 +420,13 @@ div.container.footer.center.white.visible-lg.visible-md.visible-sm, div.containe
 
 a:link,
 a:visited {
-	color: #ffffff !important
+	color: #BCCDE0 !important
 }
 
 /* LINK HOVER COLOR */
 
 a:hover {
-	color: #ffffff !important
+	color: #0A2140 !important
 }
 
 
@@ -444,7 +444,7 @@ a:hover {
 
 .smallbox {
 	float: left;
-	background: rgba(1, 1, 1, 0.5);
+	background: #0A2140;
 	color: #D7E9FF;
 	padding: 10px;
 	border: none;
@@ -457,7 +457,7 @@ a:hover {
 
 .mediumbox {
 	float: left;
-	background: rgba(1, 1, 1, 0.5);
+	background: #0A2140;
 	color: #D7E9FF;
 	padding: 10px;
 	border: none;
@@ -470,7 +470,7 @@ a:hover {
 
 .largebox {
 	float: left;
-	background: rgba(1, 1, 1, 0.5);
+	background: #0A2140;
 	color: #D7E9FF;
 	padding: 10px;
 	border: none;
@@ -485,7 +485,7 @@ a:hover {
 
 .smallhoverbox {
 	float: left;
-	background: rgba(1, 1, 1, 0.5);
+	background: #0A2140;
 	color: #D7E9FF;
 	padding: 10px;
 	border: none;
@@ -504,7 +504,7 @@ a:hover {
 
 .mediumhoverbox {
 	float: left;
-	background: rgba(1, 1, 1, 0.5);
+	background:#0A2140;
 	color: #000000;
 	padding: 10px;
 	border: none;
@@ -523,7 +523,7 @@ a:hover {
 
 .largehoverbox {
 	float: left;
-	background: rgba(1, 1, 1, 0.5);
+	background: #0A2140;
 	color: #000000;
 	padding: 10px;
 	border: none;
@@ -552,7 +552,7 @@ a:hover {
 /* BACKGROUND */
 
 ::-webkit-scrollbar-track {
-	background: #ffffff
+	background: #0A2140
 }
 
 
