@@ -576,13 +576,16 @@ table#player img {
 
 
 /* CIRCULAR LION AND USER AVATAR */
-/*code by hok-z #170947*/
-#lion_image:after {
-content:url("https://i.ibb.co/VWRVrgcg/picmix-com-1898716-ezgif-com-resize.gif");
-position:absolute;
-	left: -5px;
-	top: 10px;
-}	
+div#lion_image::after {
+content: "";
+background: url('https://i.ibb.co/VWRVrgcg/picmix-com-1898716-ezgif-com-resize.gif') no-repeat;
+position: absolute;
+transform: translate(-125px, -225px);
+width: 245px;
+height: 245px;
+background-size: cover;
+
+}
 
 table#player img {
 	border-radius: 50% !important;
