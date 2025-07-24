@@ -578,7 +578,7 @@ table#player img {
 /* CIRCULAR LION AND USER AVATAR */
 div#lion_image::after {
 content: "";
-background: url('https://i.ibb.co/VWRVrgcg/picmix-com-1898716-ezgif-com-resize.gif') no-repeat;
+background: url('https://i.ibb.co/k68vY4CL/picmix-com-1898716-ezgif-com-resize-1.gif') no-repeat;
 position: absolute;
 transform: translate(-125px, -225px);
 width: 245px;
