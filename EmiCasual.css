@@ -673,19 +673,7 @@ body > div.container.main > div > div.col-md-9.col-xs-12 > center {
 	filter: brightness(50%);
 	transition: 0.8s !important;
 }        
-/* TIME DAY */
-img[src$="day.png"] {
-    content:url('https://i.ibb.co/cSMXth4d/picmix-com-530556.gif')!important;
-    width:50px!important;
-	margin-left:-40px;
-}
-/* TIME NIGHT */
-img[src$="night.png"] {
-    content:url('https://i.ibb.co/TMRvTz8k/picmix-com-526403.gif')!important;
-    width:50px!important;
-	margin-left:-40px;
-}
-    
+ 
     /* DRY SEASON */
 img[src$="icon-season-dry.png"] {
     content:url('https://i.ibb.co/wNP4C3Tb/picmix-com-1026719.gif')!important;
